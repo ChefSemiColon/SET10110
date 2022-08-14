@@ -1,0 +1,2 @@
+D:\Advanced Games Engineering\Mambo_Number_2\AGE ATTEMPT 2\obj\Debug\BzKovSoft.ObjectSlicer.Samples.csprojAssemblyReference.cache
+D:\Advanced Games Engineering\Mambo_Number_2\AGE ATTEMPT 2\obj\Debug\BzKovSoft.ObjectSlicer.Samples.csproj.CoreCompileInputs.cache
